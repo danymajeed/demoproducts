@@ -1,4 +1,5 @@
-[
+{
+    "Products": [
     {
       "id": 201,
       "name": "Nulla",
@@ -146,4 +147,5 @@
       "content": "A similique facilis facilis. Excepturi repudiandae",
       "imageUrl": "http://www.lorempixel.com/904/25"
     }
-] 
+    ] 
+}
