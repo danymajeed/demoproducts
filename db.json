@@ -145,33 +145,5 @@
       "price": 274,
       "content": "A similique facilis facilis. Excepturi repudiandae",
       "imageUrl": "http://www.lorempixel.com/904/25"
-    },
-    {
-      "id": 239,
-      "name": "Fugiat",
-      "price": 167,
-      "content": "Maiores eveniet dolores laudantium quae doloribus ",
-      "imageUrl": "https://dummyimage.com/400x350"
-    },
-    {
-      "id": 240,
-      "name": "Voluptas",
-      "price": 278,
-      "content": "Quas a at officia quod in quod. Impedit deserunt t",
-      "imageUrl": "https://dummyimage.com/572x213"
-    },
-    {
-      "id": 314,
-      "name": "Repellendus",
-      "price": 285,
-      "content": "Alias maiores soluta ab earum asperiores praesenti",
-      "imageUrl": "https://dummyimage.com/396x712"
-    },
-    {
-      "id": 315,
-      "name": "Quibusdam",
-      "price": 209,
-      "content": "Assumenda debitis voluptatem magnam temporibus mol",
-      "imageUrl": "http://www.lorempixel.com/1016/738"
     }
 ] 
